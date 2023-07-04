@@ -1,0 +1,7 @@
+image:
+  registry: contosocontainerregistry19669.azurecr.io
+  name: contoso-website
+  tag: latest
+
+dns:
+  name: contoso-video-hd98kepp.hcp.eastus.azmk8s.io
